@@ -1,4 +1,4 @@
-#Descrição Geral do projeto:
+# Descrição Geral do projeto
 Este sistema tem como objetivo gerir campeonatos de xadrez, incluindo a organização de
 jogadores, a realização de partidas, e o acompanhamento de resultados. O sistema foi
 projetado com base nos conceitos de Programação Orientada a Objetos (POO) e segue os
